@@ -4,9 +4,9 @@ Boot Camp Prework Study Guide for Students
 
 ## Description
  I worked on this project to learn more about web development and code.
- I built this project to see how different computer languages are linked together and to learn about website building.
- It solves the problem of tying different computer languages together in a project and also shows us how to execute different parts of each language to the console and to commit and push up to Github. It showed me how Github works with different branches and merging and coding within it. This project contains notes on HTML, CSS, Git and JavaScript.
- I learned how to code. I learned about the different stages of coding. For instance, how to write different commands in the terminal. i also learned how to write and execute in vs code. I also learned how to push code up to the Github and make it public for everyone to check out.
+ This project showed how different computer languages are linked together to eventually create a static website.
+ It solves the problem of tying different computer languages together in a project and also shows us how to execute different parts of each language to the console and to commit and push up to Github. It shows how Github works with different branches and also pull requests, merging, and cloning within it. This project contains notes on HTML, CSS, Git and JavaScript.
+ It thought me about the different stages of coding. For instance, how to write different commands in the terminal. I also learned how to write and execute in .vs code. This study guide showed how one builds a static website from opening a repository all the way to deploying the project.
 
 ## Installation
 
